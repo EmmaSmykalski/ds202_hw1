@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-* Emma Smykalski
+* my partner: Emma Smykalski, username: EmmaSmykalski
+* my name: John Barmen, username: JohnBarmen
 * "edit on hw1"; c7df916
 * no problems
 * no difficulties for me, but Ive used git before in other classes
