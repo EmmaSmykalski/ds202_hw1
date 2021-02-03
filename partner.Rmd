@@ -1,0 +1,15 @@
+---
+title: "partner.Rmd"
+author: "JohnBarmen"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* Emma Smykalski
+* "edit on hw1"; c7df916
+* no problems
+* no difficulties for me, but Ive used git before in other classes
